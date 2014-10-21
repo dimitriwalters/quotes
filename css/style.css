@@ -31,8 +31,9 @@ BODY {
     height:85px;
     border-bottom: 1px #aaa solid;*/
     padding:5px;
-    margin-bottom:10px;
+    /*margin-bottom:10px;*/
     position:relative;
+    margin-bottom: 25px;
 
 }
 
@@ -48,7 +49,7 @@ BODY {
     right:8px;*/
     font-size:14px;
     color: #aaa;
-    text-align: right;
+    float: right;
 }
 
 #navbar a {
@@ -165,4 +166,8 @@ font-size:12px;
 .register table, .login table {
     margin-left: auto;
     margin-right: auto;
+}
+
+.title {
+    float: left;
 }

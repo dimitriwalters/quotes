@@ -8,6 +8,7 @@
 <body>
 <div id="page">
 <div id="header">
+<span class="title">Quotes</span>
 <!-- <a href="/"><img style="border:none" src="logo.png" width="192" height="85" alt="Retwis"></a> -->
 <?php include("navbar.php") ?>
 </div>
