@@ -9,7 +9,7 @@ $r = redisLink();
 ?>
 <div id="postform">
 <form method="POST" action="post.php">
-<?php utf8entities($User['username']) ?>, what you are doing?
+What's an awesome quote you've heard recently?
 <br>
 <table>
 <tr><td><textarea cols="70" rows="3" name="status"></textarea></td></tr>
